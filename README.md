@@ -1,5 +1,5 @@
-[license-image]: https://img.shields.io/badge/license-Anti%20996-blue.svg
-[license-url]: https://github.com/996icu/996.ICU/blob/master/LICENSE
+[license-image]: https://img.shields.io/badge/license-GPL--3.0-orange.svg
+[license-url]: https://github.com/LongxingTan/tfyolo/blob/main/license
 [pypi-image]: https://badge.fury.io/py/tfyolo.svg
 [pypi-url]: https://pypi.python.org/pypi/tfyolo
 [pepy-image]: https://pepy.tech/badge/tfyolo/month
